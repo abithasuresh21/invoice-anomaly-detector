@@ -1,0 +1,8 @@
+Total invoices: 11
+Flagged: 5
+
+INV-1002 | Ravi Electricals | Rs 1500
+INV-1005 | Ravi Electricals | Rs 1350
+INV-1008 | Ravi Electricals | Rs 1500
+INV-1010 | Lakshmi Printers | Rs 3600
+INV-1011 | Sharma Stationery | Rs 20000

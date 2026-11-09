@@ -1,0 +1,12 @@
+invoice_id,vendor,amount,bank_account,is_fraud,suspicious,iso_pred
+INV-1001,Sharma Stationery,2000,111122223333,0,False,1
+INV-1002,Ravi Electricals,1500,444455556666,0,True,1
+INV-1003,Sharma Stationery,1000,111122223333,0,False,1
+INV-1004,Lakshmi Printers,3600,777788889999,0,False,1
+INV-1005,Ravi Electricals,1350,444455556666,0,True,1
+INV-1006,Sharma Stationery,1800,111122223333,0,False,1
+INV-1007,Lakshmi Printers,2000,777788889999,0,False,1
+INV-1008,Ravi Electricals,1500,000011112222,1,True,1
+INV-1009,Sharma Stationery,10000,111122223333,1,False,1
+INV-1010,Lakshmi Printers,3600,777788889999,1,True,1
+INV-1011,Sharma Stationery,20000,111122223333,1,True,-1
